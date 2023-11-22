@@ -1,4 +1,4 @@
-👋 Hello, World! Naveen Kamat
+👋 Hello, World! I'm Naveen Kamat
 I'm a Full Stack Web Developer 🚀.
 
 🛠️ Skills & Tools

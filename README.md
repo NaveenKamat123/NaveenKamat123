@@ -5,7 +5,7 @@ I'm a Full Stack Web Developer 🚀.
 Frontend Weapons: HTML, CSS, JavaScript, ReactJS
 Backend Tools:MySQl, PHP
 Database Systems:MySQL
-Others: Git, GitHub
+Others: GitHub
 📫 Connect with me
 🌐 LinkedIn: https://www.linkedin.com/in/naveen-kamat-b4724b239
 

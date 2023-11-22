@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Naveen Kamat
-- 👀 I’m interested in Full Stack WebDevelopement
-- 🌱 I’m currently learning React.js 
+👋 Hello, World! Naveen Kamat
+I'm a Full Stack Web Developer 🚀.
 
-  
+🛠️ Skills & Tools
+Frontend Weapons: HTML, CSS, JavaScript, ReactJS
+Backend Tools:MySQl, PHP
+Database Systems:MySQL
+Others: Git, GitHub
+📫 Connect with me
+🌐 LinkedIn: https://www.linkedin.com/in/naveen-kamat-b4724b239
 
-<!---
-NaveenKamat123/NaveenKamat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 What I'm doing currently?
+I'm currently Learning React.js and Upgrade My Skills. Stay tuned!
+
+🌱 My Growth Path
+Learning and growth are part of our journey. I'm currently Learning New Skills and Upgrade MySelf with Latest Technologies and Tools.
+
+
+
+⚡ A Fun Fact about me
+I Firstly Want to be Film Stat and Now I am Coder 😄

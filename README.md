@@ -17,5 +17,3 @@ Learning and growth are part of our journey. I'm currently Learning New Skills a
 
 
 
-⚡ A Fun Fact about me
-I Firstly Want to be Film Star and Now I am Coder 😄
